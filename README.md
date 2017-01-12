@@ -1,2 +1,1 @@
-# arquivo-react-flux-redux
-Arquivos de estudo referente a React, Flux e Redux
+# Arquivos de estudo referente a React, Flux e Redux
