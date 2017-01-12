@@ -36,4 +36,6 @@ Em comparação com o pattern MVC, podemos dizer que as stores seriam próximas 
 
 Abaixo o ciclo de aplicativos Flux, demonstrando que os dados fluem em uma única direção e permanecem em ciclos associados a interatividade do usuário.
 
+![Fluxo do Flux](https://raw.githubusercontent.com/felipeorlando/arquivo-react-flux-redux/master/images/flux-overview.png)
+
 Fonte: http://pt.stackoverflow.com/questions/27167/como-funciona-a-arquitetura-flux
